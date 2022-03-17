@@ -1,0 +1,1 @@
+Sample maps with basic transition connections and item placements for debugging purposes.
