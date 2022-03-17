@@ -1,0 +1,10 @@
+{
+    "player": "ʘ",
+    "viewport": [61, 29],
+    "itemspath": "assets/items",
+    "mapspath": "assets/maps",
+    "surfacespath": "assets/surfaces",
+    "transition_time": 10, 
+    "rest_energy": 2,
+    "walking_energy_cost": 0.095
+}
